@@ -1,0 +1,15 @@
+body{
+	width: 100%;
+	background-color: cornflowerblue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+}
+h1{
+	font-size: 48px;
+	color: yellow;
+	text-transform: uppercase;
+}
